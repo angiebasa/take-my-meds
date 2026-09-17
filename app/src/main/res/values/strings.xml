@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Take My Meds</string>
+    <string name="tap_taken_hint">Set your reminder times below. When a reminder appears, tap "Taken" on it once you\'ve taken your tablet.</string>
+    <string name="dose1_enabled_label">Dose 1</string>
+    <string name="dose2_enabled_label">Dose 2</string>
+    <string name="follow_up_enabled_label">Remind me again at</string>
+    <string name="follow_up_explainer">The follow-up time only fires once, and only if you haven\'t tapped "Taken" yet by then. Untick "Remind me again at" for a dose to turn its follow-up off.</string>
+    <string name="save_button_label">Save &amp; Schedule</string>
+    <string name="exact_alarm_button_label">Enable exact alarms (tap to allow)</string>
+</resources>
